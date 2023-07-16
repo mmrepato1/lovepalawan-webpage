@@ -1,3 +1,3 @@
 # lovepalawan-webpage
 
-This webpage is created using pure HTML and CSS. Basically, I created this to show how html and CSS could make a good design.
+This webpage is created using pure HTML and CSS. This is a good practice to enhance skills in HTML and CSS.
